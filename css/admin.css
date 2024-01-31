@@ -1,0 +1,84 @@
+.main-content{
+  background-color: white;
+}
+.col-4{
+  width: auto;
+  /* background-color: pink; */
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
+}
+.wrapper{
+  padding: 1%;
+  width: 80%;
+  margin: 0 auto;
+}
+.btn-admin-add{
+  background-color: #1e90ff;
+  padding: 1%;
+  margin-left: 12%;
+  /* margin: auto; */
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0.1875rem solid var(--primary-color);
+
+}
+.btn-admin-add:hover{
+  background-color: white;
+}
+.btn-food-add{
+  background-color: #1e90ff;
+  padding: 1%;
+  /* text-align: center; */ /*added new*/
+  margin: auto; /*added new*/
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0.1875rem solid var(--primary-color);
+
+}
+.btn-food-add:hover{
+  background-color: white;
+}
+.btn-admin-update{
+  background-color: #7bed9f;
+  padding: 1%;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0.1875rem solid var(--primary-color);
+
+}
+.btn-admin-update:hover{
+  background-color: white;
+}
+.btn-admin-delete{
+  background-color: #ff6b81;
+  padding: 1%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0.1875rem solid var(--primary-color);
+
+}
+.btn-admin-delete:hover{
+  background-color: white;
+}
+.login{
+  border: 1px solid grey;
+  margin: 10% auto;
+  padding: 2%;
+  /* background-image: url(/images/bg/bg-1.jpg); */
+
+}
+.login_profile{
+  border: 1px solid grey;
+  margin: auto;
+  padding: 2%;
+}
+.add_admin{
+  margin: auto;
+  width: 75%;
+  border: 1px;
+}
