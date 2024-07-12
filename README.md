@@ -1,6 +1,5 @@
-AB food online is a website for ordering food in online. To order food, users have to create an account. Then he/she can order food by selecting from menus.
-
-Programming language: Html, css, php
+AB Food Online is a website for ordering food online. Seller can upload food menus from the admin panel and customers can order food online while staying at home. Customers can also create an account on this webpage.
+Programming language: HTML, CSS, PHP
 
 server: xampp
 
